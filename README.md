@@ -58,7 +58,7 @@ image-hover-zoom-challenge/
 
 <h2 id="preview">Preview</h2>
 <p>Here’s a preview of the Image Hover Zoom Challenge:</p>
-<p><a href="https://codepen.io/Yashi-the-lessful/pen/zYQVpGJ" target="_blank">Live Demo</a> (Replace with your live demo link)</p>
+<p><a href="https://codepen.io/Yashi-the-lessful/pen/zYQVpGJ" target="_blank">Live Demo</a> </p>
 <p>Preview</p>
 
 ![Preview](Preview.png)
